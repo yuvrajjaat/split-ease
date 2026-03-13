@@ -63,4 +63,5 @@ The app will open at `http://localhost:3000`.
 
 ## Screenshots
 
-<!-- Add screenshots here -->
+<img width="1600" height="863" alt="Screenshot 2026-03-13 213151" src="https://github.com/user-attachments/assets/68c3bcd1-682a-4b8a-97d1-d85551df78f0" />
+
